@@ -14,3 +14,6 @@ Básicamente, el pull consta de dos pasos: fetch (obtener) y merge (fusionar).
 Push: El push es la operación opuesta al pull. 
 Cuando realizas cambios en tu repositorio local y deseas compartir esos cambios con otros colaboradores en el repositorio remoto, utilizas el comando push. 
 Esto envía tus commits locales al repositorio remoto, actualizando así la versión del proyecto que todos los colaboradores pueden ver y descargar.
+
+
+⋆˚✿˖° La info es super completa y ayuda a enteder cada funcion de los comandos ⋆˚✿˖°
