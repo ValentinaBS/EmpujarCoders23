@@ -1,0 +1,16 @@
+Commit: Un commit en Git representa un conjunto de cambios realizados en el repositorio. 
+Básicamente, un commit captura un estado específico del proyecto en un momento determinado. 
+Cuando realizas un commit, estás guardando los cambios que has realizado en tu repositorio local. 
+Cada commit tiene un mensaje asociado que describe los cambios realizados.
+
+Fetch: El comando fetch se utiliza para obtener los cambios remotos en tu repositorio local, pero sin fusionarlos automáticamente. 
+A diferencia del pull, el fetch solo obtiene los cambios remotos y los almacena en tu repositorio local, sin aplicar ninguna fusión con tu trabajo actual. 
+Esto te permite revisar los cambios y decidir cómo integrarlos en tu proyecto antes de fusionarlos manualmente.
+
+Pull: Este comando se utiliza para obtener y fusionar los cambios remotos en tu repositorio local. 
+Si estás trabajando en un proyecto colaborativo y otros colaboradores han realizado cambios en el repositorio remoto, el pull te permite actualizar tu repositorio local con esos cambios. 
+Básicamente, el pull consta de dos pasos: fetch (obtener) y merge (fusionar).
+
+Push: El push es la operación opuesta al pull. 
+Cuando realizas cambios en tu repositorio local y deseas compartir esos cambios con otros colaboradores en el repositorio remoto, utilizas el comando push. 
+Esto envía tus commits locales al repositorio remoto, actualizando así la versión del proyecto que todos los colaboradores pueden ver y descargar.
